@@ -7,3 +7,4 @@
 # PriceRangeTextBubble
 # PriceRangeWithTextBubble
 # PriceRangeWithTextBubble
+# PriceRangeWithTextBubble
