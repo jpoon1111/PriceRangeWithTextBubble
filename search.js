@@ -2,7 +2,7 @@ window.onload = function () {
   slideOne();
   slideTwo();
 };
-
+/**Github testing */
 const sliderOne = document.querySelector("#slider-1");
 const sliderTwo = document.querySelector("#slider-2");
 
