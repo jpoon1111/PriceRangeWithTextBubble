@@ -5,3 +5,4 @@
 # PriceRangeTextBubbel
 # PriceRangeTextBubble
 # PriceRangeTextBubble
+# PriceRangeWithTextBubble
